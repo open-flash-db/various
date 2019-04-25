@@ -1,0 +1,10 @@
+{
+  "red_mult": 256,
+  "green_mult": 256,
+  "blue_mult": 256,
+  "alpha_mult": 256,
+  "red_add": 0,
+  "green_add": 0,
+  "blue_add": 0,
+  "alpha_add": 0
+}
